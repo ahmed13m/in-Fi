@@ -9,8 +9,6 @@ import {
 } from "@mui/material";
 import { editUser, editUsers } from "../service/api";
 import React, { useState, useEffect } from "react";
-//import PersonAddAltIcon from "@mui/icons-material/PersonAddAlt";
-import AccountCircleIcon from "@mui/icons-material/AccountCircle";
 import EditIcon from "@mui/icons-material/Edit";
 import "./editUsers.css";
 import { useNavigate, useParams } from "react-router-dom";

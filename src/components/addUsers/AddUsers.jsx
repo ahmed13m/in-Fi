@@ -27,9 +27,11 @@ const Container = styled(FormGroup)`
 	margin: 8% auto 0 auto;
 	& > div > div > Input {
 		font-family: "BioRhyme", serif;
+		margin-left: 2rem;
 	}
 	& > div > label {
 		font-family: "BioRhyme", serif;
+		margin-top: 0.3rem;
 	}
 `;
 
