@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Intailising the backend url
 
-const API_URL = "http://localhost:3002/users";
+const API_URL = "http://localhost:5000/users";
 
 // api for adding user data
 

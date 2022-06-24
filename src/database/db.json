@@ -2,23 +2,30 @@
   "users": [
     {
       "id": 1,
-      "fName": "musheab",
+      "fName": "Musheab",
       "lName": "ahmed",
       "email": "musheab658@gmail.com",
       "phone": "8897889445"
     },
     {
-      "fName": "Museab Ahmed",
-      "lName": "S",
-      "email": "mushraf261@gmail.com",
-      "phone": "",
+      "fName": "Sirius",
+      "lName": "Black",
+      "email": "siriusblack@askaban.com",
+      "phone": "9785416135",
       "id": 2
     },
     {
-      "fName": "test",
-      "lName": "admin",
-      "email": "testadmin@gmail.com",
-      "phone": "localhost3000",
+      "fName": "Harry",
+      "lName": "Potter",
+      "email": "harrypotter@hogwards.com",
+      "phone": "9931145490",
+      "id": 3
+    },
+    {
+      "fName": "ron",
+      "lName": "weasly",
+      "email": "ronwes16@hogwards.com",
+      "phone": "7546196705",
       "id": 4
     }
   ]
