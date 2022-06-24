@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=BioRhyme:wght@300;400;700&display=swap");
+#root > div > div:nth-child(2) {
+	margin-top: 2%;
+}
+
+#root > div > div:nth-child(2) > div > button {
+	margin-top: 5%;
+	width: 13rem;
+	background-color: white;
+	color: black;
+	border: 2px solid black;
+	box-shadow: -6px 4px 0 black;
+	cursor: pointer;
+	border-radius: 0.2px;
+	font-family: "BioRhyme", serif;
+}
+
+#root > div > div:nth-child(2) > div > button:hover {
+	background-color: #008080;
+	color: white;
+}

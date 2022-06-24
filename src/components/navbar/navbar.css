@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora&display=swap");
+
+.felx {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.ft {
+	transition: color 0.6s;
+}
+.ft:hover {
+	color: teal;
+	cursor: pointer;
+}
+@media (max-width: 750px) {
+	#root > div > div.head-section {
+		width: 50rem;
+	}
+}

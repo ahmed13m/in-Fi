@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&display=swap");
+
+@media (min-width: 500px) and (max-width: 750px) {
+	#root > div > div:nth-child(2) > table {
+		width: 15rem;
+	}
+}
+
+#root > div > div:nth-child(2) > div > p {
+	text-align: center;
+	margin-top: 8rem;
+}
+#root > div > div:nth-child(2) > div > p > b {
+	color: red;
+}

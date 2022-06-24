@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fName": "musheab",
+      "lName": "ahmed",
+      "email": "musheab658@gmail.com",
+      "phone": "8897889445"
+    },
+    {
+      "fName": "Museab Ahmed",
+      "lName": "S",
+      "email": "mushraf261@gmail.com",
+      "phone": "",
+      "id": 2
+    },
+    {
+      "fName": "test",
+      "lName": "admin",
+      "email": "testadmin@gmail.com",
+      "phone": "localhost3000",
+      "id": 4
+    }
+  ]
+}
